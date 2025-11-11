@@ -79,6 +79,9 @@ Settings → General → Local Mapping File
 2. Move your `.wav` file to this folder
 3. **File name must match** original
 4. In UE click `Import` → `Save`
+<img width="700" height="159" alt="image" src="https://github.com/user-attachments/assets/847b857b-3354-4b73-9a87-914fd4b72f01" />
+<img width="838" height="629" alt="image" src="https://github.com/user-attachments/assets/0c5a1364-bdf5-41b0-b5d5-697fe94eb392" />
+
 
 ### 3. Project Configuration
 
